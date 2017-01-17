@@ -7,3 +7,4 @@ AQL - Uma linguagem de consulta SQL-like para todos os modelos de dados
 Documentação  
 * [Introdução](introducao.md)  
 * [Como invocar o AQL](como_invocar_o_aql.md)
+* [Fundamentos da AQL](fundamentos_aql.md)
